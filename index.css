@@ -4,13 +4,14 @@
 }
 .big-container{
     width:80%;
-    margin:auto;
+    margin: auto;
     border:1px solid black;
 }   
 
 .container1{
     display:flex;
     justify-content: space-between;
+    margin: 1%;
  
 }
 .child1{
@@ -46,7 +47,7 @@
 {
     background-color: pink;
     padding: 2% ;
-    margin-top: 1%;
+    margin: 1%;
 }
 .container4{
     display:flex;
@@ -114,6 +115,8 @@
 .wcontainer{
     display: flex;
     justify-content: space-between;
+    margin-left: 1%;
+    margin-right: 1%;
    
 }
  .w2container{
